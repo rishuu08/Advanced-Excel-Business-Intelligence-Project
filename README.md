@@ -45,9 +45,6 @@ Improved reporting efficiency through automation
 
 Enabled stakeholder-ready decision support reporting
 
-📊 Dashboard Preview
-
-(Add screenshots of your dashboard here for better presentation)
 
 🎯 Business Impact
 
